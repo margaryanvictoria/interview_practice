@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "title": "Dress 1",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 1",
+            "price": 19,
+            "availableSizes": ["XL", "XXL"]
+        },
+        {
+            "_id": "dress2",
+            "title": "Dress 2",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 2",
+            "price": 20,
+            "availableSizes": ["M", "XL", "XXL"]
+        },
+        {
+            "_id": "dress3",
+            "title": "Dress 3",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 3",
+            "price": 30,
+            "availableSizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress4",
+            "title": "Dress 4",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 4",
+            "price": 29,
+            "availableSizes": ["XL", "XXL"]
+        },
+        {
+            "_id": "dress5",
+            "title": "Dress 5",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 5",
+            "price": 59,
+            "availableSizes": ["M", "XL", "XXL"]
+        },
+        {
+            "_id": "dress6",
+            "title": "Dress 6",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 6",
+            "price": 16,
+            "availableSizes": ["S", "XL", "XXL"]
+        },
+        {
+            "_id": "dress7",
+            "title": "Dress 7",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 7",
+            "price": 79,
+            "availableSizes": ["M", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress8",
+            "title": "Dress 8",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 8",
+            "price": 18,
+            "availableSizes": ["L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress9",
+            "title": "Dress 9",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 9",
+            "price": 199,
+            "availableSizes": ["S", "XL", "XXL"]
+        },
+        {
+            "_id": "dress10",
+            "title": "Dress 10",
+            "image": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
+            "description": "about dress 10",
+            "price": 10,
+            "availableSizes": ["XL", "XXL"]
+        }
+    ]
+}
